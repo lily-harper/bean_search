@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# bean_search build outputs / osmnx HTTP cache
+data/
+cache/
